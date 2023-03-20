@@ -18,5 +18,5 @@ while true; do
   printf "\rtracking $(date)\n"
 
   # Wait for the default sleep time of 5 minutes
-  sleep 300
+  sleep 60
 done

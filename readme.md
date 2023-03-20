@@ -6,6 +6,6 @@ A simple work time tracker method.
 2. using your terminal, authorise the sh file to run using chmod
    > chmod 777 git_tracking.sh
 3. then run the script type
-   > git_tracking.sh
+   > sh git_tracking.sh
 
 this will commit and push every X seconds to your repository until you close the terminal.
